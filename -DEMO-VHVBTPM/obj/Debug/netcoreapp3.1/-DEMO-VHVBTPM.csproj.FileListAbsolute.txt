@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\bin\Debug\netcoreapp3.1\-DEMO-VHVBTPM.exe
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\bin\Debug\netcoreapp3.1\-DEMO-VHVBTPM.deps.json
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\bin\Debug\netcoreapp3.1\-DEMO-VHVBTPM.runtimeconfig.json
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\bin\Debug\netcoreapp3.1\-DEMO-VHVBTPM.runtimeconfig.dev.json
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\bin\Debug\netcoreapp3.1\-DEMO-VHVBTPM.dll
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\bin\Debug\netcoreapp3.1\-DEMO-VHVBTPM.pdb
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\obj\Debug\netcoreapp3.1\-DEMO-VHVBTPM.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\obj\Debug\netcoreapp3.1\-DEMO-VHVBTPM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\obj\Debug\netcoreapp3.1\-DEMO-VHVBTPM.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\obj\Debug\netcoreapp3.1\-DEMO-VHVBTPM.AssemblyInfo.cs
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\obj\Debug\netcoreapp3.1\-DEMO-VHVBTPM.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\obj\Debug\netcoreapp3.1\-DEMO-VHVBTPM.dll
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\obj\Debug\netcoreapp3.1\-DEMO-VHVBTPM.pdb
+C:\Users\admin\source\repos\-DEMO-VHVBTPM\-DEMO-VHVBTPM\obj\Debug\netcoreapp3.1\-DEMO-VHVBTPM.genruntimeconfig.cache
