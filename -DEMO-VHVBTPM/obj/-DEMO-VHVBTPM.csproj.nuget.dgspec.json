@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\source\\repos\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM.csproj": {}
+    "C:\\Users\\admin\\Desktop\\sohh\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\source\\repos\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM.csproj": {
+    "C:\\Users\\admin\\Desktop\\sohh\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\sohh\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM.csproj",
         "projectName": "-DEMO-VHVBTPM",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\sohh\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\-DEMO-VHVBTPM\\-DEMO-VHVBTPM\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\sohh\\-DEMO-VHVBTPM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
